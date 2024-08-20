@@ -1,4 +1,4 @@
-Smart Medical Waste Management (IoT)
+## Smart Medical Waste Management (IoT)
 
 This project aims to improve medical waste management as hospitals, clinics & etc still uses traditional coloured bins. By integrating an IoT application, a 
 Raspberry Pi-based system and IoT-enabled sensors, it enables real-time data collection and alert notifications for full bins and hazardous conditions.
